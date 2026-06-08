@@ -1,10 +1,5 @@
 
   
-  <style>
-    @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
-    .fade-in { animation: fadein 2s; }
-  </style>
-  
   <div class="fade-in">
     <h1 style="color: #2563eb; font-size: 3em;">XALAUNCHER Pro</h1>
     <p style="font-size: 1.2em; color: #b0b0b0;">Самый быстрый и стильный способ запустить Minecraft</p>
