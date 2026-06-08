@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(135deg, #121212 0%, #1e1e1e 100%); padding: 40px; border-radius: 20px; color: white; text-align: center; font-family: sans-serif;">
+
   
   <style>
     @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
