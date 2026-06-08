@@ -3,7 +3,7 @@
     <h1 style="font-size: 3em; margin-bottom: 10px;">XALAUNCHER Pro</h1>
     <p style="font-size: 1.2em; color: #a0a0a0;">Минималистичный и производительный лаунчер для Minecraft</p>
     <br>
-    <a href="ВАША_ССЫЛКА_НА_РЕЛИЗ" style="background-color: #2563eb; color: white; padding: 15px 40px; text-decoration: none; border-radius: 12px; font-weight: bold; font-size: 1.1em; display: inline-block;">
+    <a href="https://github.com/bagetabc/xalauncher_open/releases/tag/newupdate" style="background-color: #2563eb; color: white; padding: 15px 40px; text-decoration: none; border-radius: 12px; font-weight: bold; font-size: 1.1em; display: inline-block;">
        Скачать версию для Windows (EXE)
     </a>
   </div>
